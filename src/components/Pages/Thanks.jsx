@@ -59,7 +59,7 @@ export const Thanks = () => {
       </div>
 
       <h1 className="thanks2">
-        Thanks for visit, for more info. click the icons!
+        Thanks for visit, for more info. click the icons!!!
         <svg
           xmlns="http://www.w3.org/2000/svg"
           width="30"
